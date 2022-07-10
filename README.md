@@ -1,9 +1,5 @@
 <h1 align="center">文章笔记</h1>
 
-
-
-
-
 <div align="center">
 <table border="1" cellspacing="0" cellpadding="20">
         <tr>
@@ -31,10 +27,6 @@
                     href="web/IntersectionObserver API 使用教程">IntersectionObserver API 使用教程.md</a></td>
             <td align="center"><a style="text-decoration: none;"
                     href="web/IntersectionObserver API 使用教程">IntersectionObserver API 使用教程.md</a></td>
-           
-        </tr>
-    </table>
-</div>
 
 
 
